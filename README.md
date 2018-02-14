@@ -1,4 +1,4 @@
-# 17-MINUTES-BRIDGE-PUZZLE-using-OpenGL
+# 17-MINUTES-BRIDGE-PUZZLE-using-OpenGL (C++)
 A game with 4 men, who must cross the bridge using flashlight (2 men can cross at a time) in 17 Minutes using Open GL.
 
 The puzzle starts when all men are at the same side of the bridge and all have to move to the other end as specific conditions are applied over the movement of each man.
